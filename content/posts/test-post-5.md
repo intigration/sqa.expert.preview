@@ -1,5 +1,5 @@
 ---
-title: Test Post 5
+title: Chceking the results
 seo_title: Test Post 5 - SEO Version
 summary: Another post in a series of test posts
 seo_desc: Another post in a series of test posts - SEO Version

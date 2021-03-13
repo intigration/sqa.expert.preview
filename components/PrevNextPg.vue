@@ -6,10 +6,10 @@
     <div class="col-xs-6 start-xs">
       <span v-if="prevPg">
           <NuxtLink v-if="prevPg==1" :to="'/blog'">
-              Previous Page
+              Previous Topic
           </NuxtLink>
           <NuxtLink v-else :to="'/blog/page/'+prevPg">
-              Previous Page
+              Previous Topic
           </NuxtLink>
       </span>
       <span v-else>&nbsp;</span>
@@ -21,7 +21,7 @@
         v-if="nextPg"
         :to="'/blog/page/'+nextPg"
       >
-        Next Page
+        Next Topic
       </NuxtLink>
     </span>
     <span v-else>&nbsp;</span>

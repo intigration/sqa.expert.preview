@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-static-skeleton",
+  "name": "sqa-expert",
   "version": "0.0.1",
   "description": "Skeleton Nuxt Project using nuxt-content and netlify CMS",
   "author": "Greg",
@@ -17,5 +17,16 @@
     "nuxt": "^2.0.0",
     "vue-moment": "^4.1.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "main": "nuxt.config.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com\"@lokidb/full-text-search\": \"^2.1.0\","
+  },
+  "keywords": [
+    "\"@lokidb",
+    "\"@nuxt/types\":",
+    "\"^2.15.2\""
+  ],
+  "license": "ISC"
 }

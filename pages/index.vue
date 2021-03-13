@@ -3,20 +3,19 @@
     <div class="u-full-width">
       <h1 class="site-title">
           <!-- Define Custom Site title or completely change the page -->
-          nuxt<span class="txt-color"> static </span>skeleton
+          Quality<span class="txt-color"> needs </span>diligence
       </h1>
-      <p>
-        Starter Template for a Nuxt-based Blog
-      </p>
-      <a class="no-highlighter" href="https://github.com/gms64/nuxt-static-skeleton" target="_blank">
+      <h2>33</h2><p>
+SQA Experts      </p> are online.
+      <a class="no-highlighter" href="https://sqa.expert" target="_blank">
         <button class="button-primary">
-          See the Repo
+          Connect with Industry Experts!
         </button>
       </a>
 
     </div>
     <!-- This is used to load the netlify identity widget so you can use Netlify CMS -->
-    <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <!--  <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script> -->
   </div>
 </template>
 
@@ -25,11 +24,11 @@ export default {
   // Define SEO Variables / Site Title, etc.
   head() {
     return {
-      title: this.siteName || 'Home Page',
+      title: this.siteName || 'SQA Expert',
       meta: [
       { hid: 'description',
       name: 'description',
-      content: 'A website created with Nuxt Static Skeleton' }
+      content: 'Experts are online!' }
       ]
     };
   },

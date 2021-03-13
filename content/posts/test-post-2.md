@@ -5,7 +5,8 @@ summary: First post in a series of test post
 seo_desc: First post in a series of test post - SEO Version
 date: 2020-08-11T03:17:57.500Z
 ---
-### Text and stuff
+### Text
+
 
 Text courtesy of: https://jeffsum.com/
 

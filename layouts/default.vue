@@ -27,7 +27,7 @@ export default {
   },
   data() {
     return {
-      menuChecked: false
+      menuChecked: true
     }
   }
 }
