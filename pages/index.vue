@@ -5,13 +5,13 @@
           <!-- Define Custom Site title or completely change the page -->
           Quality<span class="txt-color"> needs </span>diligence
       </h1>
-      <h2>33</h2><p>
-SQA Experts      </p> are online.
-      <a class="no-highlighter" href="https://sqa.expert" target="_blank">
+        <a class="no-highlighter" href="https://sqa.expert" target="_blank">
         <button class="button-primary">
-          Connect with Industry Experts!
+          Find Industry Experts!
         </button>
       </a>
+      <h3><p> 33 Experts are online.</p></h3>
+    
 
     </div>
     <!-- This is used to load the netlify identity widget so you can use Netlify CMS -->

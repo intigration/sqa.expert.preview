@@ -1,5 +1,5 @@
 ---
-title: Test Post 6
+title: numbersix
 seo_title: Test Post 6 - SEO Version
 summary: Another post in a series of test posts
 seo_desc: Another post in a series of test posts - SEO Version
